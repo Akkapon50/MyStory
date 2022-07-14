@@ -104,4 +104,25 @@ html, body{
     color: rgb(5, 60, 141);
 }
 
+.main-facebook{
+    max-width: 400px;
+    margin: auto;
+}
+
+.facebooklink{
+    background-color: rgb(255, 133, 255);
+    border: 15px solid purple;
+    padding: 15px;
+    margin: 20px;
+    font-family: cursive;
+    color: blanchedalmond;
+}
+
+.imagefacebook{
+    width: 100%;
+
+}
+
+
+
 
