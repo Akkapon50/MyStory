@@ -2,7 +2,8 @@ html, body{
     background-color: pink;
     margin: 0%;
     padding: 0%;
-    border: 10px solid plum;
+    border-style: dashed;
+    border-radius: 10px;
 }
 
 .top-hander{
@@ -72,7 +73,7 @@ html, body{
     padding: 20px;
     margin: 30px;
     border: 20px solid rgb(252, 220, 160);
-
+    border-radius: 10px;
 }
 
 .image1{
@@ -112,6 +113,7 @@ html, body{
 .facebooklink{
     background-color: rgb(255, 133, 255);
     border: 15px solid purple;
+    border-radius: 10px;
     padding: 15px;
     margin: 20px;
     font-family: cursive;
