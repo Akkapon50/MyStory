@@ -2,8 +2,7 @@ html, body{
     background-color: pink;
     margin: 0%;
     padding: 0%;
-    border-style: dashed;
-    border-radius: 10px;
+    border: solid plum 15px ;
 }
 
 .top-hander{
@@ -123,6 +122,12 @@ html, body{
 .imagefacebook{
     width: 100%;
 
+}
+
+.action{
+    text-decoration: none;
+    background-color: rgb(202, 171, 113);
+    color: blanchedalmond;
 }
 
 
